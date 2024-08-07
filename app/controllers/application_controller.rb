@@ -9,7 +9,7 @@ class ApplicationController < ActionController::Base
   MESSAGES = []
 
   def infer(message)
-    uri = URI("http://localhost:11434/api/generate")
+    uri = URI("http://localhost:5454/api/generate")
     http = Net::HTTP.new(uri.host, uri.port)
     request = Net::HTTP::Post.new(uri.path, {'Content-Type' => 'application/json'})
     request.body = {
