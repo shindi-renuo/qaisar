@@ -13,7 +13,7 @@ class ApplicationController < ActionController::Base
     http = Net::HTTP.new(uri.host, uri.port)
     request = Net::HTTP::Post.new(uri.path, {'Content-Type' => 'application/json'})
     request.body = {
-      "model" => "llama3",
+      "model" => "sdxl",
       "prompt" => message,
     }.to_json
 

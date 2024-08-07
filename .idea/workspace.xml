@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="">
+    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="refactor: use different port for ollama">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,14 +127,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723022358042</updated>
-      <workItem from="1723022360798" duration="14181000" />
+      <workItem from="1723022360798" duration="15174000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor: use different port for ollama">
+      <option name="closed" value="true" />
+      <created>1723039150856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723039150856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor: use different port for ollama" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: use different port for ollama" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/qaisar@qaisar.rcov" NAME="qaisar Coverage Results" MODIFIED="1723036445151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="qaisar" />
+    <SUITE FILE_PATH="coverage/qaisar@qaisar.rcov" NAME="qaisar Coverage Results" MODIFIED="1723039489921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="qaisar" />
   </component>
 </project>
