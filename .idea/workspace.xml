@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="" />
+    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
   "keyToString": {
     "Rails.qaisar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -124,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723022358042</updated>
-      <workItem from="1723022360798" duration="12162000" />
+      <workItem from="1723022360798" duration="12469000" />
     </task>
     <servers />
   </component>
