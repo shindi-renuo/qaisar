@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="fix: update port for ollama">
-      <change beforePath="$PROJECT_DIR$/.idea/qaisar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qaisar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/controllers/hello_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/controllers/hello_controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/openai.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +128,8 @@
       <option name="presentableId" value="Default" />
       <updated>1723022358042</updated>
       <workItem from="1723022360798" duration="15406000" />
-      <workItem from="1723096280499" duration="8196000" />
+      <workItem from="1723096280499" duration="8494000" />
+      <workItem from="1723112158309" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: use different port for ollama">
       <option name="closed" value="true" />

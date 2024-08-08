@@ -18,7 +18,7 @@ After that, start the rails app:
 rails s
 ```
 
-Last but not least, activate the environemnt for TailwindCSS:
+Last but not least, activate the environment for TailwindCSS:
 
 ```
 ./bin/rails tailwindcss:watch
