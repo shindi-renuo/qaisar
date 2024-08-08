@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="fix: update port for ollama">
+    <list default="true" id="7fd1e6aa-eb2c-4adb-8e0c-3fb4f1101233" name="Changes" comment="docs(fix): Fixed typ in README">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,7 @@
       <updated>1723022358042</updated>
       <workItem from="1723022360798" duration="15406000" />
       <workItem from="1723096280499" duration="8494000" />
-      <workItem from="1723112158309" duration="108000" />
+      <workItem from="1723112158309" duration="357000" />
     </task>
     <task id="LOCAL-00001" summary="refactor: use different port for ollama">
       <option name="closed" value="true" />
@@ -155,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723099291314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs(fix): Fixed typ in README">
+      <option name="closed" value="true" />
+      <created>1723112353494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723112353494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +173,8 @@
     <MESSAGE value="refactor: use different port for ollama" />
     <MESSAGE value="upd." />
     <MESSAGE value="fix: update port for ollama" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update port for ollama" />
+    <MESSAGE value="docs(fix): Fixed typ in README" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(fix): Fixed typ in README" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/qaisar@qaisar.rcov" NAME="qaisar Coverage Results" MODIFIED="1723106301235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="qaisar" />
