@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get "manifest" => "rails/pwa#manifest", as: :pwa_manifest
 
   post "chat", to: "home#chat"
+  delete "chat", to: "home#delete"
 
   # Defines the root path route ("/")
   root to: "home#index"
