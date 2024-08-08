@@ -1,7 +1,10 @@
 import { Controller } from "@hotwired/stimulus"
 
 export default class extends Controller {
+  static values = { messages: Array }
+  static targets = ["history"]
+
   connect() {
-    this.element.textContent = "Hello World!"
+    console.log(this.messagesValue);
   }
 }
